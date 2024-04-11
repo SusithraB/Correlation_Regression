@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# Developed by: SUSITHRA.B
+# Regester No: 212223220113
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
